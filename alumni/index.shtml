@@ -1,0 +1,14 @@
+<!--#include virtual="/header_footer/header.html" -->
+<div class="apps-forms">
+  <h1>Alumni</h1>
+  <h3>Sign up for the Alumni Newsletter!</h3>
+  <p>
+	Interested in joining the SWE Alumni Newsletter Listserv? Subscribe by adding your email, name, and (optional) password via this link:<a href="https://calmail.berkeley.edu/manage/list/listinfo/swe.alumni@lists.berkeley.edu" target="_blank"> https://calmail.berkeley.edu/manage/list/listinfo/swe.alumni@lists.berkeley.edu</a>.
+
+<h3>Sign up for our Alumni Directory</h3>
+<p>
+Keep in touch and hear about all the cool ways to stay involved with SWE! Sign up <a href="http://goo.gl/forms/wyM6gXhqXH" target="_blank">here</a>.
+
+
+</div>
+<!--#include virtual="/header_footer/footer.html" -->

@@ -1,4 +1,4 @@
-<!--#include virtual="/header_footer/header.html" -->  
+<!--#include virtual="/header_footer/header-index.html" -->  
 
 <div id="announcements">
   <h2>Upcoming Events</h2>
@@ -10,15 +10,24 @@
 
 <div id="constant_home"><!-- This stuff shouldn't change over time... -->  
 
-<!--<div id="execs">
+<div id="execs">
 
-  <h2>Vote for 2015-2016 Executive Board!</h2>
+  <h2>Congratulations to our 2016-2017 Executive Board!</h2>
   <p>
-  The SWE 2015-2016 <a href="http://www.tinyurl.com/votesweexecs">Executive Board Ballot</a> is open.
-</p><p>
-  The information on the candidates and elections process can be found <a href="/elections/"> here</a> right now. </p>
+President: Elizabeth Chu <br>
+Vice President: Joy Gu<br>
+VP of Outreach: Angela Lin<br>
+VP of Corporate Relations: Waverly Runion<br>
+Secretary: Annie Pan<br>
+Treasurer: Tanisha Randhawa<br>
 
 
+<div id="officer-apps">
+<h2>Apply to be a Fall 2016 Officer!</h2>
+<p>Apply <a href="https://docs.google.com/document/d/19lDiJdVr1Iuu7dr9KW3wbGxrz9Zp-3VfcwCEpw8YBEw/edit" target="_blank">here</a> to be an officer for next semester! Officer descriptions and responsibilities can be found <a href="https://docs.google.com/document/d/12_6J1TbcgxhGLkW-NuZYgsfBqCkaVHQqf2084j0ek8s/edit" target="_blank">here</a> and the application is due Sunday, April 3rd.
+
+
+<!--
 <!-- EMAIL SIGNUP -->
 <div id="email_signup">
   <h2 class="email-signup">Sign-up for our mailing list:</h3>
@@ -36,7 +45,7 @@
 <div id="committees">
     <h2>Get involved and apply for a Committee</h2>
   <p>
-<a href="https://docs.google.com/forms/d/1PENFGzPjJNhiCxeY_51N-BwMt7NwfKvFH-jvcs3P4U4/viewform" target="_blank">Apply</a> to be part of a committee!
+<a href="http://www.tinyurl.com/swe-committee-s16" target="_blank">Apply</a> to be part of a committee!
 </p>
 <p>
 Committee descriptions can be found <a href="http://swe.berkeley.edu/committees/">here</a>. 
@@ -44,7 +53,7 @@ Committee descriptions can be found <a href="http://swe.berkeley.edu/committees/
 
 <div id="committees">
     <h2>Join the House Program</h2>
-<p>House sign-ups are due 9/18 and the form can be found <a href="http://tinuurlcom/swe-hp-2015" target="_blank">here</a>.</p>
+<p>House sign-ups are due 2/4 and the form can be found <a href="http://tinyurl.com/swe-hp-2015" target="_blank">here</a>.</p>
 <p>Click <a href="http://swe.berkeley.edu/house/">here</a> for more information about our house program.
 </p>
 
@@ -80,6 +89,29 @@ Committee descriptions can be found <a href="http://swe.berkeley.edu/committees/
   <img src="/index/2015_shirt_back.png" style="height:180px"/>
   </p>
 </div>
+
+<div>
+<h2>Donate</h2>
+<p>If you're interested in donating to our chapter, please click the PayPal link below (Companies, please refer to our <a href="http://swe.berkeley.edu/corporatepackage/">Corporate Package</a>).
+</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="swe.berkeley@gmail.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Society of Women Engineers">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:donatebutton.png:NonHostedGuest">
+<input type="image" src="http://swe.berkeley.edu/index/donatebutton.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<br><br>
+<a href="https://www.ocf.berkeley.edu">
+    <img src="https://www.ocf.berkeley.edu/hosting-logos/ocfbadge_mini8.png"
+        alt="Hosted by the OCF" style="border: 0;" />
+</a>
+
 
 </div><!-- end of persistent index.html stuff -->
 

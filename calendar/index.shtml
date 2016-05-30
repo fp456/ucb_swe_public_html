@@ -1,5 +1,0 @@
-<!--#include virtual="/header_footer/header.html" -->
-<h1>Calendar</h1>
-<iframe id="gcalendar"  src="http://www.google.com/calendar/embed?showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=phrivnjgo1i6s4iisp61ige25g%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FLos_Angeles"></iframe>
-
-<!--#include virtual="/header_footer/footer.html" -->

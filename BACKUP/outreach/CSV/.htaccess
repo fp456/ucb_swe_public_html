@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Required"
-AuthUserFile /home/s/sw/swe/public_html/outreach/CSV/.htpasswd
-Require user outreachCommittee

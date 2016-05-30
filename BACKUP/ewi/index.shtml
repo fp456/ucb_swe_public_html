@@ -1,8 +1,0 @@
-<!--#include virtual="/ewi/header_footer/header.html" -->  
-<p id="mainEWILinks">
-<a href="students.php">For Students</a>
-||
-<a href="companies.shtml">For Companies</a>
-</p>
-
-<!--#include virtual="/ewi/header_footer/footer.html" -->

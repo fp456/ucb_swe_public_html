@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^www\.swe\.berkeley\.edu$ [NC]
-RewriteRule ^(.*)$ http://swe.berkeley.edu/$1 [R=301,L]

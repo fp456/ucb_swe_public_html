@@ -154,8 +154,15 @@ color:#000;
 
 #navbar-wrapper {
 position:relative;
-top:-600px;
+top:-500px;
 background-color:rgba(0,0,0,.75);
+font-family:"Lato Light", "Century Gothic", sans-serif;
+}
+
+#navbar-wrapper-blank {
+position:relative;
+top:-120px;
+background-color:#393939;
 font-family:"Lato Light", "Century Gothic", sans-serif;
 }
 
@@ -184,7 +191,7 @@ padding:0px 10px;
 
 #navbar li ul {
 display:none;
-background-color:rgba(0,0,0,0.75);
+background-color:rgba(30,30,30,0.75);
 }
 
 #navbar li:hover a,#navbar li.hover a {
@@ -211,7 +218,23 @@ color:#6b6290;
 }
 
 #header-cover{
-background-image:url("/header_footer/images/group.png");
+background-image:url("/header_footer/images/all.png");
+background-repeat:no-repeat;
+background-position:40% 50%;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+display:block;
+position:relative;
+width:100%;
+height:500px;
+overflow:hidden;
+margin:0;
+}
+
+#header-cover-blank{
+background-color:#696969;
 background-repeat:no-repeat;
 background-position:40% 50%;
 -webkit-background-size:cover;
@@ -220,10 +243,23 @@ background-position:40% 50%;
 display:block;
 position:relative;
 width:100%;
-height:600px;
+height:120px;
 overflow:hidden;
 margin:0;
 }
+
+
+#placeholder{
+width:100%;
+height:500px;
+margin:0;
+position:relative;
+}
+
+#single-item{
+width:80%;
+}
+
 
 #mediaBar {
 position:relative;
@@ -701,7 +737,7 @@ padding:10px 0 0;
 /*
 .corporateLogos,.outreachSponsorLogos {
 height:90px;
-padding:15px;
+padding:20px;
 }
 /*
 .contacts h3,.news h3,.apps-forms h3 {
