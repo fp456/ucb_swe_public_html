@@ -1,0 +1,30 @@
+# Current Structure
+
+- Home
+  -[ ]News
+  -[ ] Twitter Activities
+  -[ ] Mailing list sign up
+  -[ ] List of upcoming events in side bar
+  -[ ] Slideshow photos from previous events
+  -[ ] Easy reference to swe.berkeley@gmail.com as main contact
+  -[ ] Quick links to social media, swe.org, Region A, CoE, etc
+  -[ ] Elizabeth can write a welcome message if we want
+  -[ ] Slideshow updates/news feed instead of list
+- About
+- Get Involved
+  - National Membership
+  - Committees
+  - Volunteer
+- Member Resources
+  - Jobs and Opportunities Board
+  - General Meeting Slides
+  - Newsletters
+  - Alumni
+- Outreach
+  - Science Saturdays
+  - Science Scholars
+  - Other Events
+- Corporate Sponsors
+  - Corporate Package
+  - Advertise a Job
+- Calendar

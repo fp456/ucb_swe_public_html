@@ -1,5 +1,0 @@
-#!/bin/sh
-
-./parseOfficerInfo.py contact.csv fun.csv tmp/
-mv contacts.shtml ../../contacts.shtml
-mv tmp/* ../individual/
