@@ -20,11 +20,13 @@ app.config(['$routeProvider', function ($routeProvider) {
     // Pages
     .when("/about", {templateUrl: "partials/about.html", controller: "PageCtrl"})
     .when("/faq", {templateUrl: "partials/faq.html", controller: "PageCtrl"})
-    .when("/membership", {templateUrl: "partials/membership.html", controller: "Membership"})
+    .when("/national", {templateUrl: "partials/national.html", controller: "Membership"})
+    .when("/committee", {templateUrl: "partials/committee.html", controller: "Membership"})
     .when("/services", {templateUrl: "partials/services.html", controller: "PageCtrl"})
     .when("/contact", {templateUrl: "partials/contact.html", controller: "PageCtrl"})
     // Blog
     .when("/blog", {templateUrl: "partials/blog.html", controller: "BlogCtrl"})
+    .when("/sponsors", {templateUrl: "partials/sponsors.html", controller: "SponsorCtrl"})
     .when("/blog/post", {templateUrl: "partials/blog_item.html", controller: "BlogCtrl"})
     // else 404
     .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
