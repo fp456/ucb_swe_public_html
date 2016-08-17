@@ -22,10 +22,20 @@ app.config(['$routeProvider', function ($routeProvider) {
     .when("/faq", {templateUrl: "partials/faq.html", controller: "PageCtrl"})
     .when("/national", {templateUrl: "partials/national.html", controller: "Membership"})
     .when("/committee", {templateUrl: "partials/committee.html", controller: "Membership"})
+    .when("/GMslides", {templateUrl: "partials/GMslides.html", controller: "ResourceCtrl"})
+    .when("/newsletters", {templateUrl: "partials/newsletters.html", controller: "ResourceCtrl"})
+    .when("/alumnisignup", {templateUrl: "partials/alumnisignup.html", controller: "ResourceCtrl"})
+    .when("/outreach", {templateUrl: "partials/outreach.html", controller: "ResourceCtrl"})
+    .when("/sciencesat", {templateUrl: "partials/sciencesat.html", controller: "ResourceCtrl"})
+    .when("/sciencescholar", {templateUrl: "partials/sciencescholar.html", controller: "ResourceCtrl"})
+    .when("/corporatepackage", {templateUrl: "partials/corporatepackage.html", controller: "BlogCtrl"})
+    .when("/calendar", {templateUrl: "partials/calendar.html", controller: "BlogCtrl"})
+    .when("/blog", {templateUrl: "partials/blog.html", controller: "BlogCtrl"})
     .when("/services", {templateUrl: "partials/services.html", controller: "PageCtrl"})
     .when("/contact", {templateUrl: "partials/contact.html", controller: "PageCtrl"})
     // Blog
     .when("/blog", {templateUrl: "partials/blog.html", controller: "BlogCtrl"})
+
     .when("/sponsors", {templateUrl: "partials/sponsors.html", controller: "SponsorCtrl"})
     .when("/blog/post", {templateUrl: "partials/blog_item.html", controller: "BlogCtrl"})
     // else 404
